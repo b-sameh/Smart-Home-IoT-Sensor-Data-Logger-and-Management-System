@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 import os, time, random
 
 sensor = os.getenv("SENSOR_TYPE", "Unknown")
